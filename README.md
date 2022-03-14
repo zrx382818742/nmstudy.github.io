@@ -1,48 +1,30 @@
-# 冰雹小坏蛋
+# 🍋柠檬@柚子茶❀
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
 
 <!-- .slide -->
 
-## Contact‘联系’
+## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
+  - **中国、内蒙古**
 
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 151----0818**
 - WeChat
-  - **Wu-\_-Kan**
+  - **🍋 柠檬 柚子**
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[柠檬柚子](mailto:2645559217@qq.com)**
 
 <!-- .slide -->
 
-## Projects‘项目’
+## Projects
 
 <!-- .slide vertical=true -->
 
-- [HPL-AI](https://wu-kan.cn/2021/03/14/HPL-AI/)[![Star](https://img.shields.io/github/stars/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI)[![Fork](https://img.shields.io/github/forks/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI/fork)
-  - An implementation of HPL-AI Mixed-Precision Benchmark based on hpl-2.3.
-  - Graduation design for undergraduate thesis.
-
-<!-- .slide vertical=true -->
-
-- [SYsU-lang](https://arcsysu.github.io/SYsU-lang/)[![Star](https://img.shields.io/github/stars/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang)[![Fork](https://img.shields.io/github/forks/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang/fork)
-  - A mini, simple and modular compiler for SYsU (a tiny C language).
-  - Based on flex, bison and LLVM.
-
-<!-- .slide vertical=true -->
-
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
-  - A static blog system with content-first, sliding sidebar theme.
-  - Powered by Jekyll.
+- 亲、项目跑丢了~~~
 
 <!-- .slide -->
 
